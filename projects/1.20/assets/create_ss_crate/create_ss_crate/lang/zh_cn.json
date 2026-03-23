@@ -54,7 +54,7 @@
   "block.create_ss_crate.end_portal_placer_crate": "末地传送门放置战利品箱",
   "block.create_ss_crate.end_portal_breaker_crate": "末地传送门拆除战利品箱",
 
-  "creativetab.create_ss_crate_tab": "机械动力：SS战利品箱物品栏",
+  "creativetab.create_ss_crate_tab": "机械动力：战利品箱",
 
   "create_ss_crate.jei.info.dirt_crate": "§0泥土战利品箱战利品表：\n§8（抽取2次）\n§0- 泥土（6个）：40% \n- 橡树树苗（1个）：40% \n- 骨粉（2个）：20%",
   "create_ss_crate.jei.info.wood_crate": "§0木质战利品箱战利品表：\n§8（抽取1次）\n§0- 泥土（4个）：30% \n- 圆石（1个）：30% \n- 冰块（1个）：20% \n- 岩浆桶（1个）：20%",
